@@ -1,7 +1,3 @@
-﻿# December: Career Launch
+﻿# December-Career 2026
 
-**Status:** Coming Soon
-
-This month's projects and documentation will be added here as I progress through the Cloud Security Journey 2026 curriculum.
-
-**Expected Start:** 11/2026
+*Project files and documentation will be added here during December-Career.*
